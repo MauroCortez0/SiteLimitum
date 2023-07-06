@@ -1,0 +1,29 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
+body {
+
+    text-align: center;
+    background-color: #00E022;
+}
+
+input {
+
+    width: 300px;
+    height: 58px;
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+
+    width: 308px;
+    height: 58px;
+}
+
+p {
+
+    font-size: 20px;
+}
